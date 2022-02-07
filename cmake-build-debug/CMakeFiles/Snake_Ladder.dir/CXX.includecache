@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vrush/CLionProjects/Snake$Ladder/main.cpp
+iostream
+-
+conio.h
+-
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+
